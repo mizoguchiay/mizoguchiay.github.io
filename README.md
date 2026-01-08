@@ -1,2 +1,3 @@
-# alert-test
-alert, confirm検証用
+# sample-box
+
+- <a href="./alelrt_confirm.html">alert / confirm</a>
